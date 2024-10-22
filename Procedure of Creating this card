@@ -1,0 +1,5 @@
+In this project project I have created simple webpage featuring a card layout about mountains. Using Html tags , like setting width , assigning titles are done. Then linking of CSS sheets 
+are done in order to make the card more presentable. The difficult portion here was adding the image , this is because the image should be in the same folder as in the as the other files
+are interlinking cannot be done. Then simply other works are also done like giving headings and writing the content on the card. The main done here is done by CSS , by
+making the font color black , length of the box , alligninng all the written work and seeting the background color. Card hover effect is also added by it in order to make card grow wider
+when hover upon. Read more button is also added by it to make it more presentable.
